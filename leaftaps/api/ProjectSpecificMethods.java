@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 public class ProjectSpecificMethods {
-
+//new code 25apr2020
 	public ChromeDriver driver;
 	
 	@BeforeSuite
